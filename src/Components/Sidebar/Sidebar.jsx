@@ -6,7 +6,7 @@ export default function Sidebar() {
                     className="flex items-center justify-center rounded-full text-xl font-bold"
                 >
                     <img
-                        src="public/image/lws-logo-en.svg"
+                        src="/image/lws-logo-en.svg"
                         className="mx-auto h-10 text-center"
                     />
                 </div>
